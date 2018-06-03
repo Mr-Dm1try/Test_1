@@ -1,0 +1,7 @@
+﻿  SomeFunctions.cpp
+c:\users\mrdmi\source\repos\test_1\test_1\somefunctions.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mrdmi\source\repos\test_1\test_1\somefunctions.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+  Test_1.cpp
+c:\users\mrdmi\source\repos\test_1\test_1\test_1.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Test_1.vcxproj -> C:\Users\mrdmi\source\repos\Test_1\Debug\Test_1.exe
